@@ -2,4 +2,4 @@
 
 Frontend Mentor Challenge
 
-<a href="https://seachellea.github.io/faq-accordion/">Live Demo »</a>
+<a href="https://seachellea.github.io/column-preview-card/">Live Demo »</a>
